@@ -1,0 +1,12 @@
+# 🧰 Components for Bluetooth Controlled Arduino Car
+
+1. Arduino UNO (or Nano)
+2. HC-05 Bluetooth Module
+3. L298N Motor Driver Module
+4. 2x DC Motors with wheels
+5. Chassis (car body)
+6. Castor Wheel (for front support)
+7. 9V or 12V Battery + Connector
+8. Jumper Wires
+9. Android phone with Bluetooth App (e.g. Bluetooth Terminal)
+10. Switch (optional)
